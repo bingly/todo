@@ -14,3 +14,5 @@
   <li>postcss</li>
   <li>css-loader</li>
 <ol>
+
+<strong>还支持strong标签</strong>
