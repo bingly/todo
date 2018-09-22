@@ -18,3 +18,4 @@
 <strong>还支持strong标签</strong>
 
 来一段代码('this.$emit('del', this.todo.id)')瞧瞧
+Use the `printf()` function.
